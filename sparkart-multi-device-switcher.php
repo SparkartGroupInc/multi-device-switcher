@@ -1,14 +1,12 @@
 <?php
 /*
-Plugin Name: Multi Device Switcher
-Plugin URI: https://github.com/thingsym/multi-device-switcher
-Description: This WordPress plugin allows you to set a separate theme for device (Smart Phone, Tablet PC, Mobile Phone, Game and custom).
+Plugin Name: Multi Device Switcher (Sparkart Fork)
+Plugin URI: https://github.com/SparkartGroupInc/multi-device-switcher
+Description: Sparkart fork of https://github.com/thingsym/multi-device-switcher/ allows separate WP theme based on UA string.
 Version: 1.3.0
-Author: thingsym
-Author URI: http://www.thingslabo.com/
+Author: Sparkart
+Author URI: http://www.sparkart.com/
 License: GPL2
-Text Domain: multi-device-switcher
-Domain Path: /languages/
 */
 
 /*

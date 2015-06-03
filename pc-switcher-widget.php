@@ -1,14 +1,12 @@
 <?php
 /*
-Widget Name: PC Switcher Widget
-Plugin URI: https://github.com/thingsym/multi-device-switcher
+Widget Name: PC Switcher Widget (Sparkart Fork)
+Plugin URI: https://github.com/SparkartGroupInc/multi-device-switcher
 Description: PC Switcher Widget add-on for the Multi Device Switcher. Use this widget to add the PC Switcher to a widget.
 Version: 1.3.0
-Author: thingsym
-Author URI: http://www.thingslabo.com/
+Author: Sparkart
+Author URI: http://www.sparkart.com/
 License: GPL2
-Text Domain: multi-device-switcher
-Domain Path: /languages/
 */
 
 /*
